@@ -1,0 +1,19 @@
+{
+  "name": "flask-app",
+  "version": "1.0.0",
+  "description": "https://opposite-aluminum-3f4.notion.site/Devops-Flask-95d50abb4e774bdba72690e6536f7315",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalpb01/flask-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbalpb01/flask-app/issues"
+  },
+  "homepage": "https://github.com/iqbalpb01/flask-app#readme"
+}
